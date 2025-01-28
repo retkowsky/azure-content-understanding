@@ -18,7 +18,7 @@ Content Understanding offers a streamlined process to reason over large amounts 
 ## How to create the service
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/how-to/create-multi-service-resource
 
-## Documentation:
+## Documentation
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
 
 ## Note
