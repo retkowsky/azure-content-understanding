@@ -1,6 +1,8 @@
 # Azure Content Understanding
 
-<img src="https://cdn.windowsreport.com/wp-content/uploads/2024/11/400-million-2024-11-19T184237.200-700x467.jpg">
+<div style="text-align: center;">
+    <img src="https://cdn.windowsreport.com/wp-content/uploads/2024/11/400-million-2024-11-19T184237.200-700x467.jpg" alt="400 million">
+</div>
 
 **Azure AI Content Understanding** is a new Generative AI based Azure AI Service, designed to process/ingest content of any types (documents, images, videos, and audio) into a user-defined output format.<br><br>
 Content Understanding offers a streamlined process to reason over large amounts of unstructured data, accelerating time-to-value by generating an output that can be integrated into automation and analytical workflows.<br>
