@@ -19,14 +19,14 @@ Content Understanding offers a streamlined process to reason over large amounts 
 
 ## Notebooks
 
-Global extraction<br>
-[https://github.com/retkowsky/azure-content-understanding/blob/main/Azure%20AI%20Content%20Understanding%20-%20Management.ipynb](https://github.com/retkowsky/azure-content-understanding/blob/main/Azure%20AI%20Content%20Understanding.ipynb)
+<a href="Azure%20AI%20Content%20Understanding.ipynb">Global extraction</a>
+<br>
 
-Field extraction<br>
-https://github.com/retkowsky/azure-content-understanding/blob/main/Azure%20AI%20Content%20Understanding%20-%20Field%20extraction.ipynb
+<a href="Azure%20AI%20Content%20Understanding%20-%20Field%20extraction.ipynb">Field extraction</a>
+<br>
 
-Management<br>
-https://github.com/retkowsky/azure-content-understanding/blob/main/Azure%20AI%20Content%20Understanding%20-%20Management.ipynb
+<a href="Azure%20AI%20Content%20Understanding%20-%20Management.ipynb">Management</a>
+<br>
 
 ## How to create the service?
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/how-to/create-multi-service-resource
