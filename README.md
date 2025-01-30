@@ -25,7 +25,7 @@ Content Understanding offers a streamlined process to reason over large amounts 
 <a href="Azure%20AI%20Content%20Understanding%20-%20Field%20extraction.ipynb">Field extraction notebook</a>
 <br>
 
-<a href="Azure%20AI%20Content%20Understanding%20-%20Management.ipynb">Management notebook/a>
+<a href="Azure%20AI%20Content%20Understanding%20-%20Management.ipynb">Management notebook</a>
 <br>
 
 ## How to create the service?
