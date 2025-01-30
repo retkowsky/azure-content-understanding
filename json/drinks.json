@@ -1,0 +1,16 @@
+{
+    "description": "Extract soda cans information from an image",
+    "scenario": "image",
+    "fieldSchema": {
+        "fields": {
+            "Title": {
+                "type": "string"
+            },
+            "Image_class": {
+                "type": "string",
+                "method": "classify",
+                "enum": ["water", "soda", "wine", "gin", "vodka"]
+            }
+        }
+    }
+}
