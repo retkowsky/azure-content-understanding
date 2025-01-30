@@ -17,7 +17,7 @@ Content Understanding offers a streamlined process to reason over large amounts 
 - **Search and retrieval augmented generation (RAG).** Content Understanding enables ingestion of content of any modality into the search index. The structured output representation improves the relevance for RAG scenarios.
 - **Analytics and reporting:** Content Understanding's extracted field outputs enhance analytics and reporting, allowing businesses to gain valuable insights, conduct deeper analysis, and make informed decisions based on accurate reports.
 
-## Notebooks
+## Demos notebooks
 
 <a href="Azure%20AI%20Content%20Understanding.ipynb">Global extraction notebook</a>
 <br>
