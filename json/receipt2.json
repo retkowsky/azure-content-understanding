@@ -1,0 +1,48 @@
+{
+    "description": "Extract useful information from this document",
+    "scenario": "document",
+    "fieldSchema": {
+        "fields": {
+            "NAF_Code": {
+                "type": "string",
+                "method": "extract",
+                "description": "NAF Code"
+            },
+            "SIRET_Code": {
+                "type": "string",
+                "method": "extract",
+                "description": "SIRET code"
+            },
+            "Company": {
+                "type": "string",
+                "method": "extract",
+                "description": "Name of the company"
+            },
+			"Date": {
+                "type": "date",
+                "method": "extract",
+                "description": "Date of the document"
+            },
+			"WebSite": {
+                "type": "string",
+                "method": "extract",
+                "description": "Company website"
+            },
+			"Receipt_ID": {
+                "type": "string",
+                "method": "extract",
+                "description": "ReceiptID number"
+            },
+			"RIB": {
+                "type": "string",
+                "method": "extract",
+                "description": "RIB number"
+            },
+			"TOTAL": {
+                "type": "number",
+                "method": "extract",
+                "description": "TOTAL amount of the invoice in euros"
+            }
+        }
+    }
+}

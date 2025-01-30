@@ -1,0 +1,33 @@
+{
+    "description": "Extract useful information from this ID document",
+    "scenario": "document",
+    "fieldSchema": {
+        "fields": {
+            "FirstName": {
+                "type": "string",
+                "method": "extract",
+                "description": "First name of the person"
+            },
+            "LastName": {
+                "type": "string",
+                "method": "extract",
+                "description": "Last name of the person"
+            },
+            "DateOfBirth": {
+                "type": "date",
+                "method": "extract",
+                "description": "Date of birth of the person"
+            },
+            "ExpirationDate": {
+                "type": "date",
+                "method": "extract",
+                "description": "Expiration date of the ID document"
+            },
+			"DocumentNumber": {
+                "type": "string",
+                "method": "extract",
+                "description": "Document Number"
+            }
+        }
+    }
+}
