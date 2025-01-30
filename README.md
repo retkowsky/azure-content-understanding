@@ -23,9 +23,8 @@ https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/how-to
 ## Documentation
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
 
-## Note
-- Azure AI Content Understanding is available in ***preview***.
-- Public preview releases provide early access to features that are in active development.
+## Notes
+- Azure AI Content Understanding is available in ***preview***. Public preview releases provide early access to features that are in active development.
 - Check out the 'what's new' section: https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/whats-new
 
 28-Jan-2025
