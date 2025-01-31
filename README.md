@@ -28,6 +28,9 @@ Content Understanding offers a streamlined process to reason over large amounts 
 <a href="Azure%20AI%20Content%20Understanding%20-%20Management.ipynb">Management notebook</a>
 <br>
 
+<a hre"Azure%20AI%20Content%20Understanding%20-%20Video%20analysis%20with%20AI%20Search.ipynb">Video search</a>
+<br>
+
 ## How to create the service?
 https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/how-to/create-multi-service-resource
 
@@ -38,4 +41,4 @@ https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/
 - Azure AI Content Understanding is available in ***preview***. Public preview releases provide early access to features that are in active development.
 - Check out the 'what's new' section: https://learn.microsoft.com/en-us/azure/ai-services/content-understanding/whats-new
 
-28-Jan-2025
+31-Jan-2025
