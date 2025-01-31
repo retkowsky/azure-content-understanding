@@ -28,7 +28,7 @@ Content Understanding offers a streamlined process to reason over large amounts 
 <a href="Azure%20AI%20Content%20Understanding%20-%20Management.ipynb">Management notebook</a>
 <br>
 
-<a hre"Azure%20AI%20Content%20Understanding%20-%20Video%20analysis%20with%20AI%20Search.ipynb">Video search</a>
+<a href="Azure%20AI%20Content%20Understanding%20-%20Video%20analysis%20with%20AI%20Search.ipynb">Video search</a>
 <br>
 
 ## How to create the service?
