@@ -1,0 +1,30 @@
+{
+    "description": "Generating content understanding from video for Real Estate.",
+    "scenario": "videoShot",
+    "config": {
+        "returnDetails": true,
+        "locales": [
+            "en-US",
+            "es-ES",
+            "es-MX",
+            "fr-FR",
+            "hi-IN",
+            "it-IT",
+            "ja-JP",
+            "ko-KR",
+            "pt-BR",
+            "zh-CN"
+        ],
+        "enableFace": false
+    },
+    "fieldSchema": {
+        "name": "Content Understanding for Real Estate",
+        "descriptions": "Generate content understanding from this Real estate video.",
+        "fields": {
+            "realEstateInformation": {
+                "type": "string",
+                "description": "Analyze the video and extract all relevant details about the property to create a captivating and professional real estate listing. Identify key specifications such as the number of bedrooms and bathrooms, total square footage, and location (if available). Describe the architectural style and highlight standout features, including luxury elements like high-end appliances, custom finishes, premium materials, renowned brands, and breathtaking views. Emphasize unique selling points that set the home apart, such as smart home technology, energy-efficient upgrades, or resort-style amenities. Additionally, showcase the property's lifestyle benefits, including its proximity to top-rated schools, shopping, dining, entertainment, parks, and transportation hubs. Structure the listing for maximum readability, using an engaging yet sophisticated tone that appeals to potential buyers, evoking excitement and desire for the home."
+            }
+        }
+    }
+}
